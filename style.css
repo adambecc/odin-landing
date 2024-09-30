@@ -1,0 +1,213 @@
+body{   
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+footer{
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    font-size: 11px;
+    padding: 30px;
+    margin: 0px;
+}
+
+.navBar{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+
+.navBar a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.fDiv{
+    width: auto;
+    height: 360px;
+    background-color: #1F2937;
+    color: white;
+    margin-top: 0;
+}
+
+.navegation{
+    margin-left:auto;
+    font-size: 15px;
+    padding-right: 15px;
+    margin-top: 20px;
+    font-weight: 900;
+}
+
+.contenedorAuxiliarfDiv {
+    padding: 20px;
+    margin: 10px; /* Esto centrará el contenedor horizontalmente */
+    width: 96%; /* Establece un ancho para que pueda centrarse */
+}
+ 
+.textAndImage {
+    display: flex;
+    width: 50%;
+}
+
+.imageContent {
+    margin: auto;
+}
+
+.pic{
+    width: 360px;
+    height: 202px;
+    margin-left: 220px;
+    margin-bottom: 80px;
+    border-radius: 20px;
+}
+
+.botonSignup{
+    background-color: #0e60d2;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+    border: none;
+    border-radius: 5px;
+}
+
+.sdiv{
+    width: auto;
+    height: auto;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    margin: auto;
+}
+
+.carrouselSegundaSeccion{
+    width: 70%;
+    height: auto;
+    color: black;
+    padding: 20px;
+    margin: auto;
+}
+
+.c1{
+    width: 50px;
+    height: 50px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid rgb(0, 60, 255);
+    border-radius: 5px;
+
+}
+.displayCarrousel{
+    display: flex;
+    width: 100%;
+    margin: auto;
+}
+
+.globalCarrousel{
+    margin: auto;
+    padding: auto;
+}
+
+.textCarrousel{
+    margin: auto;
+    padding-left: 190px;
+    width: 80%;
+}
+
+.tdiv{
+    width: auto;
+    height: 10%;
+    background-color: #E5E7EB;
+    color: black;
+    padding: 20px;
+    margin: 10px;
+}
+
+.citaTextoTerceraSeccion{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 53%;
+    height: auto;
+    color: rgb(113, 113, 113);
+    padding: 20px;
+    margin: auto;
+}
+
+.colorFirma{
+    color: rgb(0, 0, 0);
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+.ftdiv{
+    width: auto;
+    height: auto;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    margin: 10px;
+}
+
+.contenedorCuartaSeccion{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    background-color: #3882f6;
+    border-radius: 5px;
+    color: white;
+    height: 140px;
+}
+
+.agrupacionTextoBoton{
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+.margen{
+    margin: 10px;
+    padding: 20px;
+}
+
+.signup2{
+    width: 78px;
+    height: 22px;
+    background-color: #3882f6;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    margin: auto;
+    margin-right: 70px;
+    margin-bottom: 80px;
+}
+
+.signup2:hover{
+    background-color: #0e60d2;
+}
+
+.fat {
+    font-weight: bolder;
+    margin-left: 9px;
+}
+
+.fDiv {
+    margin: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.textc1 {
+    width: 80%;
+    text-align: center;
+    padding-left: 2.5px ;
+}
+
+.titlehasbik {
+    width: 200px;
+}
